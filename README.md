@@ -13,16 +13,13 @@
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me-->
-🚀 What I Do:
+I'm a full-stack developer passionate about building scalable and efficient solutions. Proficient in Python, C, Rust, and JavaScript, I work across both frontend and backend development. I'm also exploring Web3, blockchain, and AI/ML to understand their real-world applications.
 
-Full-Stack Development – Creating robust web applications.
-AI/ML & Deep Learning – Developing intelligent solutions.
-System Design & Optimization – Ensuring high-performance software.
-🔎 Currently Exploring:
+🚀 What I’m Working On:
 
-Generative AI & Advanced ML techniques.
-Web3, Blockchain, and decentralized applications.
-Scalable microservices and distributed systems.
+Web and software development projects.
+Exploring scalable system design.
+Learning more about AI/ML, Web3, and blockchain.
 
 <!-- Snake Game Repo View -->
 
