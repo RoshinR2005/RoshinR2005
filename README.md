@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Roshin R
-**A passionate WebDeveloper from India**
+🎓 B.Tech in Computer Science & Engineering | College of Engineering Trivandrum (CET)
+💻 Full-Stack Developer | AI/ML Enthusiast
 
 <!--Email Me 👉 ✉️ **roshinr2023@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
