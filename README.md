@@ -13,6 +13,16 @@
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me-->
+🚀 What I Do:
+
+Full-Stack Development – Creating robust web applications.
+AI/ML & Deep Learning – Developing intelligent solutions.
+System Design & Optimization – Ensuring high-performance software.
+🔎 Currently Exploring:
+
+Generative AI & Advanced ML techniques.
+Web3, Blockchain, and decentralized applications.
+Scalable microservices and distributed systems.
 
 <!-- Snake Game Repo View -->
 
