@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Roshin R
-🎓 B.Tech in Computer Science & Engineering | College of Engineering Trivandrum (CET)
+🎓 B.Tech in Computer Science & Engineering | College of Engineering Trivandrum (CET) 23-27
 
 💻 Full-Stack Developer | AI/ML Enthusiast
 
