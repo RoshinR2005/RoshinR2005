@@ -13,7 +13,7 @@
 - 📫 **How to reach me:** Enter your email here
 - 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me-->
-I'm a full-stack developer passionate about building scalable and efficient solutions. Proficient in Python, C,C++, Rust, and JavaScript, I work across both frontend and backend development. I'm also exploring Web3, blockchain, and AI/ML to understand their real-world applications.
+I'm a full-stack developer passionate about building scalable and efficient solutions. Proficient in Python, C, C++, Rust, and JavaScript, I work across both frontend and backend development. I'm also exploring Web3, blockchain, and AI/ML to understand their real-world applications.
 
 🚀 What I’m Working On:
 
