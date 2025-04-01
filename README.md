@@ -19,7 +19,6 @@ I'm a full-stack developer passionate about building scalable and efficient solu
 🚀 What I’m Working On:
 
 Web and software development projects.
-Exploring scalable system design.
 Learning more about AI/ML, Web3, and blockchain.
 
 <!-- Snake Game Repo View -->
